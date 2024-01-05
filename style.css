@@ -5,7 +5,7 @@
     color: white;
     border-radius: 10px 10px 0 0;
     margin: 0 auto;
-    margin-top: 150px;
+    margin-top: 115px;
     margin-bottom: 20px;
 
 }
@@ -46,6 +46,8 @@ input[type=button] {
     padding-bottom: 20px;
     border-radius: 10px;
     margin: auto;
+    margin-bottom: 115px;
+    
     
   }
 
