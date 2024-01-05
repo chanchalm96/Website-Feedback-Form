@@ -1,0 +1,58 @@
+.feed-form{
+    background-color: #7B56FF;
+    width: 600px;
+    padding: 2px 0 2px 0;
+    color: white;
+    border-radius: 10px 10px 0 0;
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-bottom: 20px;
+
+}
+.input-form{
+    width: 600px;
+    padding: 2px 0 2px 0;
+    color: rgb(20, 20, 90);
+    border-radius: 10px 10px 0 0;
+    margin: 0 auto;
+}
+.feed-form h2{
+    padding-left: 20px;
+    font-weight: 500;
+}
+input[type=button] {
+    background-color: #7B56FF;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .checked {
+    color: orange;
+  }
+
+  form{
+    margin-left: 30px;
+  }
+  .form-main{
+    background-color: white;
+    width: 600px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin: auto;
+    
+  }
+
+  .name-input{
+    width: 500px;
+    height: 20px;
+  }
+  body{
+    background-color: antiquewhite;
+  }
